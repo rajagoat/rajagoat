@@ -1,6 +1,6 @@
 ## Athul Rajagopal - @rajagoat
 
-### Hello! 👋
+### Hello! 👋🏽 
 
 My name is Athul, and I’m currently an undergraduate student at the University of Calgary, pursuing a dual major in Software Engineering and Commerce.
 
