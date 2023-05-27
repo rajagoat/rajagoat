@@ -2,7 +2,7 @@
 
 ### Hello! 👋🏽 
 
-My name is Athul, and I’m currently an undergraduate student at the University of Calgary, pursuing a dual major in Software Engineering and Commerce.
+My name is Athul, and I’m currently an undergraduate student at the University of Calgary, pursuing a dual degree in Software Engineering and Commerce.
 
 With more than two years of experience developing software for non-profit organizations, student teams, and hackathons, I am well-versed in creating quality software solutions to address real-world problems.
 
