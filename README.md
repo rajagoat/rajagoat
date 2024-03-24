@@ -10,8 +10,8 @@ To learn more about me, check out [my website](https://www.athulrajagopal.dev).
 
 ### 🔭 What I’m currently working on
 
-- Programming a communication module for a CubeSat (being developed by [CalgaryToSpace](https://www.calgarytospace.ca/)!)
-- Learning how to build a compiler
+- Contributing to the [Lumio](https://www.smarttech.com/en/lumio) platform as a frontend developer intern at SMART Technologies
+- Learning about opportunities for digital transformation in non-tech sectors
 - Various web development projects
 
 ### 📫 Contact me
